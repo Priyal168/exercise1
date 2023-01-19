@@ -1,0 +1,22 @@
+.search>input{
+    font-size:30px;
+    border-radius: 5px;
+    background-color: lightblue;
+    width: 500px;
+    margin-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button{
+    background-color: #91ced4;
+    border-radius: 5px;
+    font-size: 30px;
+    border: 1px solid #398B93;
+    box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
+    margin: 0.5rem 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button:hover{
+    background-color: #398B93;
+}
